@@ -20,7 +20,7 @@ public class ShopServiceImpl extends ServiceImpl<ShopMapper, Shop> implements IS
 
     @Override
     public Result queryById(Long id) {
-        
+
         return null;
     }
 }
